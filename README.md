@@ -16,7 +16,7 @@ Code for AACL 2020 paper: Graph Attention Network with Memory Fusion for Aspect-
   - numpy
   - sklearn
 ## data 
-For get data,you can in this [this link](https://github.com/GeneZC/ASGCN)
+For get data,you can in [this link](https://github.com/GeneZC/ASGCN)
 
 
 ## Dependency tree-graph
