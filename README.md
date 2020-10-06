@@ -7,7 +7,7 @@ Code for AACL 2020 paper: Graph Attention Network with Memory Fusion for Aspect-
 
 - python 3.6+
 - [PyTorch](https://pytorch.org/) 1.1.0+
--scipay 1.5.2+
+- scipay 1.5.2+
 
 
 
