@@ -28,3 +28,5 @@ python denpendent-graph.py
 you can tun commands like this:
 python train.py --dataset rest14
 ## Train and Test 
+## Contact Me 
+yuanli@mail.ynu.edu.cn
