@@ -1,6 +1,6 @@
 # GATT-For-Aspect
 
-Code for AACL 2020 paper: Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis:[this link](https://www.aclweb.org/anthology/2020.aacl-main.4/)
+Code for AACL-IJCNLP 2020 paper:[Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis](https://www.aclweb.org/anthology/2020.aacl-main.4/)
 
 
 ## Dependency 
