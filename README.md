@@ -30,3 +30,17 @@ python train.py --dataset rest14
 ## Train and Test 
 ## Contact Me 
 yuanli@mail.ynu.edu.cn
+
+
+Cite our paper if you find our work is helpful~
+@inproceedings{yuan-etal-2020-graph,
+    title = "Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis",
+    author = "Yuan, Li  and
+      Wang, Jin  and
+      Yu, Liang-Chih  and
+      Zhang, Xuejie",
+    booktitle = "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing",
+    month = dec,
+    year = "2020",
+    pages = "27--36",
+}
